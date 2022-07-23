@@ -1,6 +1,6 @@
 const CONFIG = {
    onst CONFIG = {
-    titleWeb: ":))))",
+    titleWeb: ":)))))",
     introTitle: 'dmlinh:))',
     introDesc: `Linhxinhvclá 
     `,
