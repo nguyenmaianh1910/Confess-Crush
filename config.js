@@ -9,7 +9,7 @@ const CONFIG = {
     desc: 'Phải làm shao phải làm shaoo?? ',
     btnYes: 'Mình cũng vậy'>333
     btnNo: 'Keme cậu :))',
-    question: 'Shao cậu lại thíc mình:)))',
+    question: 'Shao cậu lại thíc mình:))',
     btnReply: 'Gửi cho cậu <3',
     reply: 'Cậu cư tê vcl:)))',
     mess: 'Biết mà:)))',
