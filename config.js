@@ -1,7 +1,7 @@
 const CONFIG = {
    onst CONFIG = {
     titleWeb: ":))))",
-    introTitle: 'dmlinh:))',
+    introTitle: 'dmlinh:))'
     introDesc: `Linhxinhvclá 
     `,
     btnIntro: 'Biết mà:)',
